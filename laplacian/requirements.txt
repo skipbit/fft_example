@@ -1,2 +1,2 @@
+numpy
 opencv_python
-matplotlib
